@@ -8,8 +8,8 @@ const AuthLayout = ({ children }) => {
   return (
     <div id="auth-wrapper">
       <aside>
-        <div>
-          <img src={logo} alt="Logo" />
+        <div className="logo-container">
+          <img src={logo} alt="Logo" className="logo" />
         </div>
       </aside>
       <main>{children}</main>

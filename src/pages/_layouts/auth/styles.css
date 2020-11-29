@@ -15,6 +15,13 @@
   align-items: center;
 }
 
+#auth-wrapper aside .logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc(100% - 220px);
+}
+
 
 #auth-wrapper > footer {
   display: flex;
