@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 
 :root {
-  --color-background: #dbdbdb;
+  --color-background: #d1e4ec;
   --color-white: #ffffff;
+  --color-right-background: #525749;
 
   font-size: 60%;
 }
